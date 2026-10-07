@@ -20,7 +20,6 @@
 ## 目录结构
 
 ~~~text
-camera/src/                         Git 仓库根目录
 ├── README.md                       当前说明文件
 ├── docs/                           实际运行记录
 │   ├── dmesg-camera.txt            摄像头、CSI 和 LCD 内核日志
