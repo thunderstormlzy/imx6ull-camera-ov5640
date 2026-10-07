@@ -1,0 +1,18 @@
+
+mode "1024x600-60"
+	# D: 51.201 MHz, H: 38.096 kHz, V: 59.993 Hz
+	geometry 1024 600 1024 1200 16
+	timings 19531 140 160 20 12 20 3
+	accel false
+	rgba 5/11,6/5,5/0,0/0
+endmode
+
+
+virtual_size:
+1024,1200
+
+bits_per_pixel:
+16
+
+stride:
+2048

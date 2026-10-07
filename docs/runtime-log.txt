@@ -1,0 +1,2 @@
+camera: 640x480 -> LCD 1024x600, bpp=16, stride=2048, virtual=1024x1200, RGB=(11/5,5/6,0/5), framebuffer pages=2, save every 3600 seconds
+camera: saved ./camera-data/camera_20261007_112730_393.bmp

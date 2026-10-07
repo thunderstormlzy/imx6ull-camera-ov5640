@@ -1,0 +1,6 @@
+SCSI subsystem initialized
+Linux video capture interface: v2.00
+mxsfb 21c8000.lcdif: failed to find mxc display driver 
+mxsfb 21c8000.lcdif: initialized
+CSI: Registered sensor subdevice: ov5640 1-003c
+camera ov5640, is found

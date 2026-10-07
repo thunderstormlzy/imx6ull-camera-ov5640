@@ -1,0 +1,12 @@
+device: /dev/video1
+name: mx6s-csi
+
+video devices:
+crw-rw----    1 root     0          81,   0 Jan  1 00:00 /dev/video0
+crw-rw----    1 root     0          81,   1 Jan  1 00:08 /dev/video1
+
+camera kernel logs:
+SCSI subsystem initialized
+Linux video capture interface: v2.00
+CSI: Registered sensor subdevice: ov5640 1-003c
+camera ov5640, is found
